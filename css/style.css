@@ -22,7 +22,7 @@
 
   .background-section {
     position: relative;
-    background-image: url('/images/back22.avif');
+    background-image: url('https://images.pexels.com/photos/4027948/pexels-photo-4027948.jpeg?auto=compress&cs=tinysrgb&w=600');
     /* background-size: cover; */
     height: 650px;
     overflow: hidden;
