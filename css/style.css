@@ -154,7 +154,7 @@ body{ background:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b6
 }
 .card-image{
   width:400px;
-  height:450px;
+  height:350px;
 }
 .card-image>img{
   width:100%;
